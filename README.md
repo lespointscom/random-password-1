@@ -2,7 +2,7 @@
 Generate random password of a given length
 
 ## Installation
-This project using composer.
+This project uses composer.
 ```
 $ composer require mazraara/random-password
 ```
